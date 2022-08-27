@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharad-1022
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning data structure and algorithms with java
-- 💞️ I’m looking to collaborate on app development
+- 👀 Full Stack Enthusiast
+- 🌱 Problem solver ,not in computerized term only but even in real life
+- 💞 Interested in MERN Stack
 - 📫 You can reach me-sharadpctebtech19cse@gmail.com
 
 <!---
