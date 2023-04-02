@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharad-1022
 - 👀 Full Stack Enthusiast
-- 🌱 Problem solver ,not in computerized term only but even in real life
+- 🌱 Problem solver ,not only in computerised term but also in real life.
 - 💞 Interested in MERN Stack
 - 📫 You can reach me -sharadpctebtech19cse@gmail.com
 
