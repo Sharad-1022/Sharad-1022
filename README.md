@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Sharad-1022
-- 📫 You can reach me -sharadpctebtech19cse@gmail.com
+- 📫 You can reach me -sharadgupta1003@gmail.com
